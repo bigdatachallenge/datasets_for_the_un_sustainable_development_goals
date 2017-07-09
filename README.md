@@ -1,37 +1,37 @@
 # Datasets for the UN Sustainable Development Goals
 
-##General Datasets
+## General Datasets
 
-##No Poverty
+## No Poverty
 
-##No Hunger
+## No Hunger
 
-##Good Health
+## Good Health
 
-##Quality Education
+## Quality Education
 
-##Gender Equality
+## Gender Equality
 
-##Clean Water and Sanitation
+## Clean Water and Sanitation
 
-##Affordable and Clean Energy
+## Affordable and Clean Energy
 
-##Decent Work and Economic Growth
+## Decent Work and Economic Growth
 
-##Industry, Innovation, and Infrastructure
+## Industry, Innovation, and Infrastructure
 
-##Reduced Inequalities
+## Reduced Inequalities
 
-##Sustainable Cities and Communities
+## Sustainable Cities and Communities
 
-##Responsible Consumption and Production
+## Responsible Consumption and Production
 
-##Climate Action
+## Climate Action
 
-##Life Below Water
+## Life Below Water
 
-##Life on Land
+## Life on Land
 
-##Peace Justice and Strong Institutions
+## Peace Justice and Strong Institutions
 
-##Partnerships for the Goals
+## Partnerships for the Goals
