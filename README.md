@@ -4,9 +4,12 @@
 
 ### General Dataportals
 https://www.kaggle.com/datasets
+http://dataportals.org
+http://www.skywatch.co/ (Hard to use)
+https://namara.io/#/ (From https://codx.ca/)
 
 ### Canadian Datasets
-http://open.canada.ca/en
+http://open.canada.ca/en (search for files types such as json/csv/shp)
 https://www.ontario.ca/search/data-catalogue
 https://data.gov.bc.ca/
 https://open.alberta.ca/opendata
@@ -18,6 +21,10 @@ Historic Canadian Weather Data: ftp://ftp.tor.ec.gc.ca/Pub/Get_More_Data_Plus_de
 
 ### American Datasets
 https://waterdata.usgs.gov/nwis
+
+### Where not to go
+http://www.statcan.gc.ca (really shallow summaries)
+
 
 ## No Poverty
 Canadian incomes: http://open.canada.ca/data/en/dataset?q=poverty
