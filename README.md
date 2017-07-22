@@ -32,7 +32,7 @@ Canadian incomes: http://open.canada.ca/data/en/dataset?q=poverty
 ## No Hunger
 
 ## Good Health
-http://airqualityontario.com/science/data_sets.php (thie historical air quality and smog datasets are very good. Make your own scrapper to help :) )
+http://airqualityontario.com/science/data_sets.php (the historical air quality and smog datasets are very good. Make your own scrapper to help :) )
 
 ## Quality Education
 
