@@ -4,8 +4,11 @@
 
 ### General Dataportals
 https://www.kaggle.com/datasets
+
 http://dataportals.org
+
 http://www.skywatch.co/ (Hard to use)
+
 https://namara.io/#/ (From https://codx.ca/)
 
 ### Canadian Datasets
