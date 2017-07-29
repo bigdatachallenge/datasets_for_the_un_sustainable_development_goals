@@ -31,24 +31,33 @@ Historic Canadian Weather Data: ftp://ftp.tor.ec.gc.ca/Pub/Get_More_Data_Plus_de
 ### American Datasets
 https://waterdata.usgs.gov/nwis
 
-### Where not to go
-http://www.statcan.gc.ca (really shallow summaries)
-
+### Summaries (not the greatest for analysis)
+http://www.statcan.gc.ca 
 
 ## No Poverty
 Canadian incomes: http://open.canada.ca/data/en/dataset?q=poverty
 
 ## No Hunger
 
+### Shallow Summaries
+https://ourworldindata.org/hunger-and-malnutrition/
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JL16EW
+
 ## Good Health
 http://airqualityontario.com/science/data_sets.php (the historical air quality and smog datasets are very good. Make your own scrapper to help :) )
 
 ## Quality Education
 
+### Shallow Summaries
+http://stats.oecd.org//Index.aspx?QueryId=70670
+
 ## Gender Equality
 https://data.europa.eu/euodp/en/data/dataset/gender-equality-index
 
 ## Clean Water and Sanitation
+
+### Shallow Summaries
+https://data.unicef.org/topic/water-and-sanitation/drinking-water/
 
 ## Affordable and Clean Energy
 
