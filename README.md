@@ -47,6 +47,7 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JL16EW
 http://airqualityontario.com/science/data_sets.php (the historical air quality and smog datasets are very good. Make your own scrapper to help :) )
 
 ## Quality Education
+http://ec.europa.eu/eurostat/web/education-and-training/data/database (European)
 
 ### Shallow Summaries
 http://stats.oecd.org//Index.aspx?QueryId=70670
@@ -60,11 +61,13 @@ https://data.europa.eu/euodp/en/data/dataset/gender-equality-index
 https://data.unicef.org/topic/water-and-sanitation/drinking-water/
 
 ## Affordable and Clean Energy
+https://www.kaggle.com/lislejoem/us_energy_census_gdp_10-14
 
 ## Decent Work and Economic Growth
 https://www.ontario.ca/data/2006-commercial-vehicle-survey-origin-and-destination (this dataset can be compared with other years)
 
 ## Industry, Innovation, and Infrastructure
+https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey
 
 ## Reduced Inequalities
 
@@ -78,8 +81,11 @@ http://cwfis.cfs.nrcan.gc.ca/ha/nfdb
 
 ## Life Below Water
 https://waterdata.usgs.gov/nwis
+https://www.nodc.noaa.gov/OC5/SELECT/dbsearch/dbsearch.html
+https://catalog.data.gov/dataset/fish-stocking (Limited to North Dakota)
 
 ## Life on Land
+http://nfdp.ccfm.org/dynamic_report/dynamic_report_ui_e.php (Can also be used under climate action)
 
 ## Peace Justice and Strong Institutions
 
