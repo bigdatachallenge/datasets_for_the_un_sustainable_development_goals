@@ -11,6 +11,9 @@ http://www.skywatch.co/ (Hard to use)
 
 https://namara.io/#/ (From https://codx.ca/)
 
+http://www.gapminder.org/data/ (519 relevant datasets)
+
+
 ### Canadian Datasets
 http://open.canada.ca/en (search for files types such as json/csv/shp)
 
