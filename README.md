@@ -11,7 +11,13 @@ http://www.skywatch.co/ (Hard to use)
 
 https://namara.io/#/ (From https://codx.ca/)
 
-http://www.gapminder.org/data/ (519 relevant datasets)
+http://www.gapminder.org/data/ (519 relevant datasets) (Thanks, Jacob!)
+
+https://github.com/caesar0301/awesome-public-datasets
+
+https://data.world/ (Requires account)
+
+http://data.worldbank.org
 
 
 ### Canadian Datasets
