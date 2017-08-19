@@ -37,6 +37,8 @@ https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM1
 
 Historic Canadian Weather Data: ftp://ftp.tor.ec.gc.ca/Pub/Get_More_Data_Plus_de_donnees/
 
+https://www.ontario.ca/search/data-catalogue?status=%5B%2230%22%5D&sort=asc (Ontario)
+
 ### American Datasets
 https://waterdata.usgs.gov/nwis
 
