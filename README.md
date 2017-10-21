@@ -27,13 +27,21 @@ https://www.ontario.ca/search/data-catalogue
 
 https://data.gov.bc.ca/
 
+https://www.donneesquebec.ca/fr/
+
 https://open.alberta.ca/opendata
+
+https://data.novascotia.ca/
+
+http://opendata.gov.nl.ca/
 
 http://www.opendatask.ca/
 
-https://www.donneesquebec.ca/fr/
+https://data.acap.aq/
 
 https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=9e56e03bb8d1e310VgnVCM10000071d60f89RCRD
+
+https://data.winnipeg.ca/
 
 Historic Canadian Weather Data: ftp://ftp.tor.ec.gc.ca/Pub/Get_More_Data_Plus_de_donnees/
 
